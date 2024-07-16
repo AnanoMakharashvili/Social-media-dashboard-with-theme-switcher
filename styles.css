@@ -339,4 +339,8 @@
   .overview-box-one-style {
     width: 255px;
   }
+
+  .overview-today-style {
+    margin-left: -830px;
+  }
 }
